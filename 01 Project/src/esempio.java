@@ -15,6 +15,7 @@ public class esempio {
 		// TODO Auto-generated method stub
 		System.out.println("Ciao Luciano");
 		System.out.println("Ciao Lux");
+		System.out.println("Bella!");
 
 	}
 
